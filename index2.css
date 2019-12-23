@@ -1,0 +1,15 @@
+body{
+	background-image:url("sea.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: green;
+}
+.form-container{
+	background-color: rgba(52,44,32,0.7);
+	width: 280px;
+	top: 50%;
+	left:50%;
+	transform: translate(130%,60%);
+	position: absolute;
+	padding: 30px;
+}
