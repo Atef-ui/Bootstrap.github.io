@@ -9,9 +9,18 @@ img{
 hr{
 	color: black;
 }
-i{
+.html{
 	font-size: 126px;
+	color: orange;
 }
 body{
 	font-family: 'Muli', sans-serif;
+}
+.css{
+	font-size: 126px;
+	color: blue;
+}
+.jv{
+	font-size: 126px;
+	color: yellow;
 }
